@@ -2980,7 +2980,7 @@ a.logo {}
   }
 
   .contacts {
-    padding: 85px 20px 85px;
+    padding: 140px 20px !important;
   }
 
   .contacts__title {
